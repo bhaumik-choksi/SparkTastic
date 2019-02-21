@@ -14,4 +14,3 @@ Machine Learning implementations in Scala using the Apache Spark framework
 - [Classification and regression](https://spark.apache.org/docs/2.1.0/ml-classification-regression.html)
 
 
-<img src = "https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAAV0AAAAJDQ0MDdlNjNhLTM0YzAtNGJjNy1hZTI1LWY0NDQ5ZjRmY2YwOA.png">
